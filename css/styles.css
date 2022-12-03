@@ -98,3 +98,34 @@ button {
     font-weight: 800;
     color: #1F2937;
 }
+
+.quote{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    display: flex;
+    padding: 200px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    justify-content: center;
+}
+
+.quote-text {
+    width: 700px;
+}
+
+.author {
+    text-align: end;
+}
+
+.subscription {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    color:#F9FAF8; 
+    padding: 80px;
+    margin: 160px;
+    border-radius: 10px;
+}
+
